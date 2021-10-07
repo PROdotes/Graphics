@@ -1,4 +1,4 @@
-import Graphics.MyFrame;
+import graphics.MyFrame;
 
 public class Main {
 

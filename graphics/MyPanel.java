@@ -1,7 +1,7 @@
-package Graphics;
+package graphics;
 
-import Drawings.Line;
-import Drawings.MyPoint;
+import drawings.Line;
+import drawings.MyPoint;
 import inputs.MyKeyboard;
 import inputs.MyMouse;
 
@@ -42,7 +42,7 @@ public class MyPanel extends JPanel implements Runnable {
     }
 
     public static void makeLines() {
-        for (int counter = 0; counter < 100000; counter++) {
+        for (int counter = 0; counter < 10; counter++) {
             lines.add(new Line(WIDTH, HEIGHT));
         }
     }

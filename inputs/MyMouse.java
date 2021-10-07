@@ -1,6 +1,6 @@
 package inputs;
 
-import Graphics.MyPanel;
+import graphics.MyPanel;
 
 import javax.swing.event.MouseInputListener;
 import java.awt.event.MouseEvent;

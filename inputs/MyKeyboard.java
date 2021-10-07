@@ -1,6 +1,6 @@
 package inputs;
 
-import Graphics.MyPanel;
+import graphics.MyPanel;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
